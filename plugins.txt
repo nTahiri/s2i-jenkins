@@ -55,7 +55,7 @@ ssh-credentials:1.12
 
 # Pipeline Utility Steps Plugin - https://wiki.jenkins-ci.org/display/JENKINS/Pipeline+Utility+Steps+Plugin
 pipeline-utility-steps:1.1.5
-script-security:1.25
+#script-security:1.25
 
 # seem to be missing from the Jenkins docs but required to run these plugins..
 structs:1.5
