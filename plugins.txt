@@ -58,7 +58,7 @@ pipeline-utility-steps:1.1.5
 #script-security:1.25
 
 # seem to be missing from the Jenkins docs but required to run these plugins..
-structs:1.5
+# structs:1.5
 git-client:2.1.0
 git-server:1.6
 plain-credentials:1.3
