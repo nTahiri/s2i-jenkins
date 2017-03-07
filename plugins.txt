@@ -66,4 +66,4 @@ ace-editor:1.1
 
 # Jenkins v2 specific
 # matrix-auth:1.4
-blueocean:1.0.0-b24
+blueocean:1.0.0-b25
